@@ -1,0 +1,23 @@
+{
+  "name": "dirty-backends-with-hapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "hapi": "^8.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/97-109-107/dirty-backends-with-hapi.git"
+  },
+  "author": "A. Kaniowski",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/97-109-107/dirty-backends-with-hapi/issues"
+  },
+  "homepage": "https://github.com/97-109-107/dirty-backends-with-hapi#readme"
+}
